@@ -1,6 +1,8 @@
 Modif branche hotfix
 Modification commit 1
 A simple Java EE 7 Sample
+Changement 1
+Asimple Java EE 7 Sample
 =========================
 
 This is a trivial Java EE 7 sample.
